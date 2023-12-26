@@ -293,7 +293,7 @@ h1 {
 .blueTeam {
   height: 450px;
   background-color: #0066b2;
-  background-image: url('C:\Users\USER\Desktop\web development\projects\codeNames\code-names-app\src\images\blueAgent.png');
+  /* background-image: url('C:\Users\USER\Desktop\web development\projects\codeNames\code-names-app\src\images\blueAgent.png'); */
   background-repeat: no-repeat;  
   background-position: bottom;
   background-size: 80%;
